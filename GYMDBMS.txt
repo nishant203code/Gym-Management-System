@@ -1,4 +1,3 @@
-
 -- Create the database
 CREATE DATABASE gymmanagement;
 
@@ -45,4 +44,3 @@ CREATE TABLE Payments (
     amount DECIMAL(10, 2),
     payment_date DATE
 );
-
